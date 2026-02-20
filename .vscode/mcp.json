@@ -1,0 +1,8 @@
+{
+	"servers": {
+		"mintlify": {
+			"url": "https://altostratnetworks.mintlify.dev/docs/mcp",
+			"type": "http"
+		}
+	}
+}
